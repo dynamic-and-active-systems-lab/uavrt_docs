@@ -17,6 +17,6 @@ Contents
 
 .. toctree::
    
-   software
+   rangefinder_int
    usage
    api
