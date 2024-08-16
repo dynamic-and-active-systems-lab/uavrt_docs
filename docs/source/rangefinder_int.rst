@@ -6,10 +6,6 @@ Rangefinder to Cube Serial Cable
 Cable Build
 ------------
 
-.. toctree::
-   
-   more1
-   more2
 
 The Benewake TFMini-S rangefinder connector is a 4-pin JST-GH. The port availabe on the Airbot Mini Carrier Board is the 8-pin JST-GH GPS-1/Serial 3. We will build a 4 inch harness beteen these two connections. The pinout for the mini carrier board can be found `here <https://docs.cubepilot.org/user-guides/carrier-boards/airbot-mini-carrier-board/airbot-mini-carrier-board-set-user-guide#rc-signal-and-power-selection>`__. The pinout for the Benewake TFMini-S rangefinder can be found `here <https://cdn.sparkfun.com/assets/8/a/f/a/c/16977-TFMini-S_-_Micro_LiDAR_Module-Product_Manual.pdf>`__
 

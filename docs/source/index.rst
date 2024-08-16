@@ -17,6 +17,6 @@ Contents
 
 .. toctree::
    
-   rangefinder_int
-   usage
-   api
+   3dPrintParts
+   avionics
+   software

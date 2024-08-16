@@ -1,6 +1,6 @@
-The More 1 Page
+The Avioinics Page
 ===============
 
-.. _more1:
+.. _avionics:
 
 This page is currently empty for testing

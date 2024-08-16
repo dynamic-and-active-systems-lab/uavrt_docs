@@ -1,4 +1,4 @@
-The More 2 Page
+The Software Page
 ===============
 
 .. _more2:
