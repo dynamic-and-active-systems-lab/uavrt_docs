@@ -1,5 +1,5 @@
 The Avioinics Page
-===============
+==================
 
 .. _avionics:
 

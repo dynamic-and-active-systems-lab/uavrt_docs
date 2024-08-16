@@ -17,7 +17,6 @@ Contents
 
 .. toctree::
    
-   3dPrintParts
-   avionics
+   systemBuild
    software
    usage
