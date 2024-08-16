@@ -1,0 +1,13 @@
+Information for setting up sphinx to build html documentation from locally is found here:
+https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
+
+Here is what I did:
+Set up a virtual environment in the docs git repo folder. Then activate the venv. Then install sphinx and sphinx-rtd-theme. Move to the docs folder and make the html documentation. 
+
+	python3 -m venv .venv
+	source .venv/bin/activate
+	pip install sphinx 
+	pip install sphinx-rtd-theme
+	cd docs
+	make html 
+
